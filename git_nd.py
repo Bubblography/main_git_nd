@@ -1,4 +1,5 @@
 import datetime
+from datetime import datetime
 
 
 def data():
@@ -6,4 +7,3 @@ def data():
     return date_now
 
 print(data())
-
